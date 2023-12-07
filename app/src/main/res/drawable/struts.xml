@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="290dp"
+    android:viewportWidth="256"
+    android:viewportHeight="290">
+
+    <path
+        android:fillColor="#202A5A"
+        android:pathData="M241.026,73.9019 L130.415,9.66038 L9.66038,77.283 L9.66038,212.528
+L130.415,280.151 L246.34,212.528 L246.34,77.283 L246.34,71.4868 L241.026,73.9019
+Z" />
+    <path
+        android:fillColor="#2C448A"
+        android:pathData="M9.66038,77.283 L130.415,144.906 L246.34,77.283 L130.415,9.66038 L9.66038,77.283
+Z" />
+    <path
+        android:fillColor="#283A79"
+        android:pathData="M246.34,71.4868 L207.698,91.7736 L207.215,100.468 L130.415,144.906
+L130.415,280.151 L246.34,212.528 L246.34,71.4868 Z" />
+    <path
+        android:fillColor="#202A5A"
+        android:pathData="M9.66038,77.283 L9.66038,212.528 L130.415,280.151 L130.415,144.906
+L9.66038,77.283 Z" />
+    <path
+        android:fillColor="#3558A7"
+        android:pathData="M0,212.528 L0,169.057 L130.415,246.34 L130.415,289.811 L0,212.528 Z" />
+    <path
+        android:fillColor="#3558A7"
+        android:pathData="M0,77.283 L0,101.434 L130.415,178.717 L130.415,154.566 L0,77.283 Z" />
+    <path
+        android:fillColor="#416FB5"
+        android:pathData="M256,212.528 L256,188.377 L150.219,142.491 L130.415,154.566 L130.415,178.234
+L194.657,206.732 L130.415,246.34 L130.415,289.811 L256,212.528 Z" />
+    <path
+        android:fillColor="#477FC1"
+        android:pathData="M194.657,206.732 L186.928,203.834 L130.415,236.679 L9.66038,169.057
+L9.66038,163.26 L0,169.057 L130.415,246.34 L194.657,206.732 Z" />
+    <path
+        android:fillColor="#477FC1"
+        android:pathData="M56.9962,86.9434 L130.415,43.4717 L207.698,91.7736 L246.34,71.4868 L130.415,0
+L0,77.283 L130.415,154.566 L150.219,142.491 L56.9962,86.9434 Z" />
+    <path
+        android:fillColor="#202A5A"
+        android:pathData="M207.215,100.468 L207.698,91.7736 L130.415,43.4717 L56.9962,86.9434
+L65.2076,91.7736 L130.415,53.1321 L207.215,100.468 Z" />
+</vector>

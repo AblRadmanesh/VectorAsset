@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="307dp"
+    android:viewportWidth="256"
+    android:viewportHeight="307">
+
+    <path
+        android:fillColor="url(#fogBugzLinearGradient-1)"
+        android:pathData="M89.9764,306.862 L256,161.803 L90.2578,161.803
+C90.2578,161.803,90.0115,301.27,89.9764,306.862 Z" />
+    <path
+        android:fillColor="url(#fogBugzLinearGradient-2)"
+        android:pathData="M166.059,0 L-1.99944e-13,161.803 L165.32,161.803
+C165.32,161.803,166.024,4.22094,166.059,0 Z" />
+</vector>

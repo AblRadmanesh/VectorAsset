@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportWidth="256"
+    android:viewportHeight="256">
+
+    <path
+        android:fillColor="url(#mpsLinearGradient-1)"
+        android:pathData="M0,256 L256,256 L127.403,127.659 L1.51582e-14,0 Z" />
+    <path
+        android:fillColor="url(#mpsLinearGradient-2)"
+        android:pathData="M256,256 L127.403,127.659 L256,0 Z" />
+    <path
+        android:fillColor="url(#mpsLinearGradient-3)"
+        android:pathData="M191.573,191.616 L127.403,127.659 L256,0 Z" />
+</vector>

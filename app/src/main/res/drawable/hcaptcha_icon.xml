@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportWidth="256"
+    android:viewportHeight="256">
+
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-1)"
+        android:fillAlpha="0.5"
+        android:strokeAlpha="0.5"
+        android:strokeWidth="1"
+        android:pathData="M160.007,223.993 L192.014,223.993 L192.014,256 L160.007,256 L160.007,223.993 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-1)"
+        android:fillAlpha="0.7"
+        android:strokeAlpha="0.7"
+        android:strokeWidth="1"
+        android:pathData="M128,223.993 L160.007,223.993 L160.007,256 L128,256 L128,223.993 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-1)"
+        android:fillAlpha="0.7"
+        android:strokeAlpha="0.7"
+        android:strokeWidth="1"
+        android:pathData="M96.0068,223.993 L128.014,223.993 L128.014,256 L96.0068,256 L96.0068,223.993 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-1)"
+        android:fillAlpha="0.5"
+        android:strokeAlpha="0.5"
+        android:strokeWidth="1"
+        android:pathData="M64,223.993 L96.0068,223.993 L96.0068,256 L64,256 L64,223.993 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-2)"
+        android:fillAlpha="0.7"
+        android:strokeAlpha="0.7"
+        android:strokeWidth="1"
+        android:pathData="M192,192 L223.993,192 L223.993,224.007 L192,224.007 L192,192 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-3)"
+        android:fillAlpha="0.8"
+        android:strokeAlpha="0.8"
+        android:strokeWidth="1"
+        android:pathData="M160.007,192 L192.014,192 L192.014,224.007 L160.007,224.007 L160.007,192 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-3)"
+        android:pathData="M128,192 L160.007,192 L160.007,224.007 L128,224.007 L128,192 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-3)"
+        android:pathData="M96.0068,192 L128.014,192 L128.014,224.007 L96.0068,224.007 L96.0068,192 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-3)"
+        android:fillAlpha="0.8"
+        android:strokeAlpha="0.8"
+        android:strokeWidth="1"
+        android:pathData="M64,192 L96.0068,192 L96.0068,224.007 L64,224.007 L64,192 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-3)"
+        android:fillAlpha="0.7"
+        android:strokeAlpha="0.7"
+        android:strokeWidth="1"
+        android:pathData="M32.0068,192 L64.0135,192 L64.0135,224.007 L32.0068,224.007 L32.0068,192 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-4)"
+        android:fillAlpha="0.5"
+        android:strokeAlpha="0.5"
+        android:strokeWidth="1"
+        android:pathData="M223.993,160.007 L256,160.007 L256,192 L223.993,192 L223.993,160.007 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-5)"
+        android:fillAlpha="0.8"
+        android:strokeAlpha="0.8"
+        android:strokeWidth="1"
+        android:pathData="M192,160.007 L223.993,160.007 L223.993,192 L192,192 L192,160.007 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-6)"
+        android:pathData="M160.007,160.007 L192.014,160.007 L192.014,192 L160.007,192 L160.007,160.007 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-6)"
+        android:pathData="M128,160.007 L160.007,160.007 L160.007,192 L128,192 L128,160.007 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-6)"
+        android:pathData="M96.0068,160.007 L128.014,160.007 L128.014,192 L96.0068,192 L96.0068,160.007 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-6)"
+        android:pathData="M64,160.007 L96.0068,160.007 L96.0068,192 L64,192 L64,160.007 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-6)"
+        android:fillAlpha="0.8"
+        android:strokeAlpha="0.8"
+        android:strokeWidth="1"
+        android:pathData="M32.0068,160.007 L64.0135,160.007 L64.0135,192 L32.0068,192 L32.0068,160.007 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-6)"
+        android:fillAlpha="0.5"
+        android:strokeAlpha="0.5"
+        android:strokeWidth="1"
+        android:pathData="M0,160.007 L32.0068,160.007 L32.0068,192 L0,192 L0,160.007 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-7)"
+        android:fillAlpha="0.7"
+        android:strokeAlpha="0.7"
+        android:strokeWidth="1"
+        android:pathData="M223.993,128 L256,128 L256,160.007 L223.993,160.007 L223.993,128 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-8)"
+        android:pathData="M192,128 L223.993,128 L223.993,160.007 L192,160.007 L192,128 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-9)"
+        android:pathData="M160.007,128 L192.014,128 L192.014,160.007 L160.007,160.007 L160.007,128 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-9)"
+        android:pathData="M128,128 L160.007,128 L160.007,160.007 L128,160.007 L128,128 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-9)"
+        android:pathData="M96.0068,128 L128.014,128 L128.014,160.007 L96.0068,160.007 L96.0068,128 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-9)"
+        android:pathData="M64,128 L96.0068,128 L96.0068,160.007 L64,160.007 L64,128 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-9)"
+        android:pathData="M32.0068,128 L64.0135,128 L64.0135,160.007 L32.0068,160.007 L32.0068,128 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-9)"
+        android:fillAlpha="0.7"
+        android:strokeAlpha="0.7"
+        android:strokeWidth="1"
+        android:pathData="M0,128 L32.0068,128 L32.0068,160.007 L0,160.007 L0,128 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-10)"
+        android:fillAlpha="0.7"
+        android:strokeAlpha="0.7"
+        android:strokeWidth="1"
+        android:pathData="M223.993,96.0068 L256,96.0068 L256,128.014 L223.993,128.014 L223.993,96.0068 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-11)"
+        android:pathData="M192,96.0068 L223.993,96.0068 L223.993,128.014 L192,128.014 L192,96.0068 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-12)"
+        android:pathData="M160.007,96.0068 L192.014,96.0068 L192.014,128.014 L160.007,128.014
+L160.007,96.0068 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-12)"
+        android:pathData="M128,96.0068 L160.007,96.0068 L160.007,128.014 L128,128.014 L128,96.0068 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-12)"
+        android:pathData="M96.0068,96.0068 L128.014,96.0068 L128.014,128.014 L96.0068,128.014
+L96.0068,96.0068 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-12)"
+        android:pathData="M64,96.0068 L96.0068,96.0068 L96.0068,128.014 L64,128.014 L64,96.0068 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-12)"
+        android:pathData="M32.0068,96.0068 L64.0135,96.0068 L64.0135,128.014 L32.0068,128.014
+L32.0068,96.0068 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-12)"
+        android:fillAlpha="0.7"
+        android:strokeAlpha="0.7"
+        android:strokeWidth="1"
+        android:pathData="M0,96.0068 L32.0068,96.0068 L32.0068,128.014 L0,128.014 L0,96.0068 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-13)"
+        android:fillAlpha="0.5"
+        android:strokeAlpha="0.5"
+        android:strokeWidth="1"
+        android:pathData="M223.993,64 L256,64 L256,96.0068 L223.993,96.0068 L223.993,64 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-14)"
+        android:fillAlpha="0.8"
+        android:strokeAlpha="0.8"
+        android:strokeWidth="1"
+        android:pathData="M192,64 L223.993,64 L223.993,96.0068 L192,96.0068 L192,64 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-15)"
+        android:pathData="M160.007,64 L192.014,64 L192.014,96.0068 L160.007,96.0068 L160.007,64 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-15)"
+        android:pathData="M128,64 L160.007,64 L160.007,96.0068 L128,96.0068 L128,64 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-15)"
+        android:pathData="M96.0068,64 L128.014,64 L128.014,96.0068 L96.0068,96.0068 L96.0068,64 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-15)"
+        android:pathData="M64,64 L96.0068,64 L96.0068,96.0068 L64,96.0068 L64,64 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-15)"
+        android:fillAlpha="0.8"
+        android:strokeAlpha="0.8"
+        android:strokeWidth="1"
+        android:pathData="M32.0068,64 L64.0135,64 L64.0135,96.0068 L32.0068,96.0068 L32.0068,64 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-15)"
+        android:fillAlpha="0.5"
+        android:strokeAlpha="0.5"
+        android:strokeWidth="1"
+        android:pathData="M0,64 L32.0068,64 L32.0068,96.0068 L0,96.0068 L0,64 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-16)"
+        android:fillAlpha="0.7"
+        android:strokeAlpha="0.7"
+        android:strokeWidth="1"
+        android:pathData="M192,32.0068 L223.993,32.0068 L223.993,64.0135 L192,64.0135 L192,32.0068 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-17)"
+        android:fillAlpha="0.8"
+        android:strokeAlpha="0.8"
+        android:strokeWidth="1"
+        android:pathData="M160.007,32.0068 L192.014,32.0068 L192.014,64.0135 L160.007,64.0135
+L160.007,32.0068 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-17)"
+        android:pathData="M128,32.0068 L160.007,32.0068 L160.007,64.0135 L128,64.0135 L128,32.0068 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-17)"
+        android:pathData="M96.0068,32.0068 L128.014,32.0068 L128.014,64.0135 L96.0068,64.0135
+L96.0068,32.0068 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-17)"
+        android:fillAlpha="0.8"
+        android:strokeAlpha="0.8"
+        android:strokeWidth="1"
+        android:pathData="M64,32.0068 L96.0068,32.0068 L96.0068,64.0135 L64,64.0135 L64,32.0068 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-17)"
+        android:fillAlpha="0.7"
+        android:strokeAlpha="0.7"
+        android:strokeWidth="1"
+        android:pathData="M32.0068,32.0068 L64.0135,32.0068 L64.0135,64.0135 L32.0068,64.0135
+L32.0068,32.0068 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-18)"
+        android:fillAlpha="0.5"
+        android:strokeAlpha="0.5"
+        android:strokeWidth="1"
+        android:pathData="M160.007,0 L192.014,0 L192.014,32.0068 L160.007,32.0068 L160.007,0 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-18)"
+        android:fillAlpha="0.7"
+        android:strokeAlpha="0.7"
+        android:strokeWidth="1"
+        android:pathData="M128,0 L160.007,0 L160.007,32.0068 L128,32.0068 L128,0 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-18)"
+        android:fillAlpha="0.7"
+        android:strokeAlpha="0.7"
+        android:strokeWidth="1"
+        android:pathData="M96.0068,0 L128.014,0 L128.014,32.0068 L96.0068,32.0068 L96.0068,0 Z" />
+    <path
+        android:fillColor="url(#hCaptchaLinearGradient-18)"
+        android:fillAlpha="0.5"
+        android:strokeAlpha="0.5"
+        android:strokeWidth="1"
+        android:pathData="M64,0 L96.0068,0 L96.0068,32.0068 L64,32.0068 L64,0 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M84.2497,117.841 L93.1623,97.8895
+C96.4131,92.7695,95.9797,86.5117,92.4174,82.9901
+C91.9417,82.5135,91.4147,82.091,90.8461,81.7304
+C88.3758,80.2266,85.3692,79.8848,82.6243,80.7958
+C79.5431,81.762,76.913,83.8056,75.2152,86.5524
+C75.2152,86.5524,63.0248,114.997,58.4601,127.837
+C53.8955,140.678,55.7511,164.111,73.2377,181.665
+C91.7943,200.222,118.708,204.502,135.843,191.607
+C136.564,191.233,137.241,190.779,137.861,190.253 L190.686,146.11
+C193.26,143.956,197.066,139.608,193.639,134.623
+C190.212,129.639,184.008,133.066,181.448,134.718 L151.026,156.837
+C150.74,157.079,150.367,157.192,149.995,157.148
+C149.622,157.104,149.285,156.908,149.062,156.607
+C148.159,155.216,148.281,153.396,149.36,152.137 L195.996,112.559
+C200.059,108.929,200.588,103.66,197.35,100.043
+C194.113,96.4267,189.101,96.6028,185.051,100.273 L143.062,133.106
+C142.663,133.436,142.145,133.585,141.631,133.519
+C141.118,133.452,140.655,133.175,140.353,132.754
+C139.416,131.83,139.323,130.349,140.136,129.314 L187.693,83.1661
+C191.438,79.6681,191.65,73.8002,188.167,70.0411
+C186.475,68.2913,184.14,67.3121,181.706,67.3321
+C179.21,67.321,176.811,68.2944,175.028,70.0411 L126.497,115.62
+C125.332,116.785,123.056,115.62,122.785,114.265
+C122.685,113.772,122.843,113.261,123.205,112.911 L160.4,70.5558
+C162.89,68.2821,163.931,64.8251,163.111,61.5541
+C162.292,58.2832,159.743,55.7262,156.474,54.896
+C153.206,54.0659,149.746,55.0965,147.464,57.5797 L91.0358,119.887
+C89.0176,121.905,86.0377,122,84.6154,120.835
+C84.1655,120.489,83.8733,119.978,83.8045,119.415
+C83.7357,118.852,83.8962,118.285,84.2497,117.841 Z" />
+</vector>

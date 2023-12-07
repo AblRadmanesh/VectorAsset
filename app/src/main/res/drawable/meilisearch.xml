@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="150dp"
+    android:viewportWidth="256"
+    android:viewportHeight="150">
+
+    <path
+        android:fillColor="url(#meilisearchLinearGradient-1)"
+        android:pathData="M0,149.288 L47.2969,28.2766 C53.9619,11.2237,70.3992,0,88.7082,0 L117.223,0
+L69.9261,121.012 C63.261,138.065,46.8238,149.288,28.5146,149.288 L0,149.288 Z" />
+    <path
+        android:fillColor="url(#meilisearchLinearGradient-2)"
+        android:pathData="M69.3864,149.289 L116.683,28.277
+C123.348,11.224,139.785,0.000356092,158.095,0.000356092 L186.609,0.000356092
+L139.312,121.012 C132.647,138.065,116.21,149.289,97.9009,149.289
+L69.3864,149.289 Z" />
+    <path
+        android:fillColor="url(#meilisearchLinearGradient-3)"
+        android:pathData="M138.777,149.289 L186.074,28.277
+C192.739,11.224,209.175,0.000356092,227.484,0.000356092 L256,0.000356092
+L208.703,121.012 C202.037,138.065,185.601,149.289,167.291,149.289
+L138.777,149.289 Z" />
+</vector>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportWidth="256"
+    android:viewportHeight="256">
+
+    <path
+        android:fillColor="#5805FF"
+        android:pathData="M128,0 C198.692,0,256,57.3076,256,128 C256,198.692,198.692,256,128,256
+C57.3076,256,0,198.692,0,128 C0,57.3076,57.3076,0,128,0 Z" />
+    <path
+        android:fillColor="url(#moonRadialGradient-1)"
+        android:pathData="M199.694,-22.6308 C270.387,-22.6308,327.694,34.6767,327.694,105.369
+C327.694,176.062,270.387,233.369,199.694,233.369
+C129.002,233.369,71.6945,176.062,71.6945,105.369
+C71.6945,34.6767,129.002,-22.6308,199.694,-22.6308 Z" />
+    <path
+        android:fillColor="url(#moonRadialGradient-2)"
+        android:pathData="M275.372,-45.6238 C346.064,-45.6238,403.372,11.6838,403.372,82.3762
+C403.372,153.069,346.064,210.376,275.372,210.376
+C204.68,210.376,147.372,153.069,147.372,82.3762
+C147.372,11.6838,204.68,-45.6238,275.372,-45.6238 Z" />
+</vector>

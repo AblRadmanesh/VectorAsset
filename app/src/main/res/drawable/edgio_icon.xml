@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportWidth="256"
+    android:viewportHeight="256">
+
+    <path
+        android:fillColor="url(#edgioLinearGradient-1)"
+        android:pathData="M0,0 L256,0 L256,256 L0,256 L0,0 Z" />
+    <path
+        android:fillColor="url(#edgioRadialGradient-2)"
+        android:pathData="M0,0 L256,0 L256,256 L0,256 L0,0 Z" />
+    <path
+        android:fillColor="url(#edgioRadialGradient-3)"
+        android:pathData="M0,0 L256,0 L256,256 L0,256 L0,0 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M170.908,77.2014 L187.133,47.9482 L68.8667,47.9482 L68.8667,208.051
+L187.133,208.051 L170.989,178.758 L100.749,178.758 L100.749,141.939
+L156.504,141.939 L165.487,112.645 L100.749,112.645 L100.749,77.2014 Z" />
+</vector>
